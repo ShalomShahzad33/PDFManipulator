@@ -5,7 +5,7 @@ Merge and split PDFs directly in your browser — no backend, no uploads, no dat
 
 ## ✨ Features
 
-- 📄 Merge multiple PDFs into one
+- 📄 Merge multiple PDFs into one or split one into multiple files
 - ⚡ Fully client-side processing
 - 🔒 No server or backend required
 - 🧠 Fast and lightweight
@@ -57,11 +57,19 @@ PDFManipulator uses browser-based PDF processing through PDF-Lib, meaning:
 - No backend or cloud processing is needed
 - Everything runs securely in your browser
 
-## 📸 Screenshots
+<h2>📸 Screenshots</h2>
 
-![Home Screenshot](./screenshots/home.png)
-![Merge Screenshot](./screenshots/merge.png)
-![Split Screenshot](./screenshots/split.png)
+<p align="center">
+  <img src="./screenshots/home.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/merge.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/split.png" width="800" />
+</p>
 
 ## 📄 License
 
