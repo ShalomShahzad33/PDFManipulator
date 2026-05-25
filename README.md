@@ -57,19 +57,11 @@ PDFManipulator uses browser-based PDF processing through PDF-Lib, meaning:
 - No backend or cloud processing is needed
 - Everything runs securely in your browser
 
-<h2>📸 Screenshots</h2>
+## 📸 Screenshots
 
-<p align="center">
-  <img src="./screenshots/home.png" width="800" />
-</p>
-
-<p align="center">
-  <img src="./screenshots/merge.png" width="800" />
-</p>
-
-<p align="center">
-  <img src="./screenshots/split.png" width="800" />
-</p>
+![Home Screenshot](./screenshots/home.png)
+![Merge Screenshot](./screenshots/merge.png)
+![Split Screenshot](./screenshots/split.png)
 
 ## 📄 License
 
