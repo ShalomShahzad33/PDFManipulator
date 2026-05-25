@@ -59,9 +59,9 @@ PDFManipulator uses browser-based PDF processing through PDF-Lib, meaning:
 
 ## 📸 Screenshots
 
-![Home Screenshot](./screenshots/home.png)
-![Merge Screenshot](./screenshots/merge.png)
-![Split Screenshot](./screenshots/split.png)
+![Home Screenshot](https://github.com/ShalomShahzad33/PDFManipulator/blob/main/screenshots/Home.png)
+![Merge Screenshot](https://github.com/ShalomShahzad33/PDFManipulator/blob/main/screenshots/Merge.png)
+![Split Screenshot](https://github.com/ShalomShahzad33/PDFManipulator/blob/main/screenshots/Split.png)
 
 ## 📄 License
 
